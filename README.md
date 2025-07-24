@@ -28,7 +28,7 @@ A classic command‑line Hangman game implemented in Python, featuring step‑by
 ### Installation & Setup
 
 1. **Clone the repo**  
-   ```bash
+```bash
    git clone https://github.com/your-username/ascii-hangman.git
    cd ascii-hangman
 ```
